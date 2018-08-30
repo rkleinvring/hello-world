@@ -1,3 +1,3 @@
-# My First GitHub Repository
+# Repository For Testing
 
-Hello, this is my first GitHub repository.
+Hi, this is an example repository for testing.
