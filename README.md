@@ -1,3 +1,3 @@
-# Welcome To My GitHub Repository For Testing
+# Welcome To My GitHub Repository
 
 Hi, this is an example repository for testing.
